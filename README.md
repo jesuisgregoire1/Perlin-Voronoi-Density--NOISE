@@ -6,12 +6,15 @@ districts, procedural generation techniques can produce diverse and realistic la
 
 # Perlin Noise
 Perlin noise is a type of random signal that exhibits natural-looking patterns. 
-
+<img src="https://github.com/jesuisgregoire1/Perlin-Voronoi-Density--NOISE/blob/main/Perlin.png" alt="Alt Text" width="300"/>
 
 # Voronoi Diagram
 Voronoi diagrams are geometric structures that partition a space into distinct regions based on a set of points or seeds.
+<img src="https://github.com/jesuisgregoire1/Perlin-Voronoi-Density--NOISE/blob/main/Voronoi.png" alt="Alt Text" width="300"/>
+
 
 # Density
 In the context of generating mountains, the concept of "density" refers to the distribution of height values across the terrain. 
 Perlin noise is often utilized to determine the density of different regions on the map. 
+<img src="https://github.com/jesuisgregoire1/Perlin-Voronoi-Density--NOISE/blob/main/Density.png" alt="Alt Text" width="300"/>
 
